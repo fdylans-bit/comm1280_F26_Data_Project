@@ -1,5 +1,9 @@
-## Final data project for COMM1280 _Data Science for Communication_ (Fall 2026)
+## Our project on NYC Rat Sightings
 
-* Replace content in this file to act as the main index page for your project 
+* Hogeun, Cameron and Matt
 
-* Change the title and write an overview of your project and description of the content.
+### Overview
+
+* Rats are everywhere in NYC or so it seems, but what does the data say.
+
+
