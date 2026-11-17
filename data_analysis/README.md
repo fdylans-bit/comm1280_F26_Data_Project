@@ -1,6 +1,6 @@
-## Data analysis notebooks for COMM1280 Final Data Project
+## Data Files for NYC Rat Data
 
-* This folder should contain the a series of Jupyter notebooks you create to do the data analysis.
+#### Raw Data Files
 
-* Update this `README.md` file to document the notebooks and give a short description of what each one does.
+* `Rat_Sightings_20231026.csv` - Downloaded from NYC Data
 
